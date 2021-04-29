@@ -37,6 +37,8 @@ The simplistic hash function from Section 2.2.2, repeated for you as follows, is
 
 ![ch2 fig24](https://github.com/thechipexpert/bitcoin/blob/main/ch02-fig24.svg)
 
+> Brute-force trial and error is NOT the only known way to find an input that gives a certain hash. 256 and 512 should give the same hash.
+
 The four properties are also repeated as follows:
 
 * The same input will always produce the same hash.
@@ -50,3 +52,5 @@ The four properties are also repeated as follows:
 Let’s go back to the example where you had a cat picture on your hard drive and wrote down the cryptographic hash of the picture on a piece of paper. Suppose someone wanted to change the cat picture on your hard drive without you noticing. What variant of the fourth property is important for stopping the attacker from succeeding?
 
 ![ch2 fig26](https://github.com/thechipexpert/bitcoin/blob/main/ch02-fig26.svg)
+
+> Second pre-image resistance: I only have the cryptographic hash (digest) of the pre-image written down on a piece of paper.  It is really hard to find a second pre-image that matches my hash.
