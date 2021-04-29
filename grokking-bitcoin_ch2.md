@@ -12,30 +12,34 @@ This chapter covers:
 
 ### Warm up
 
-  How many bits is the output of SHA256?
+How many bits is the output of SHA256?
+> 256 bits
 
-  How many bytes is the output of SHA256?
+How many bytes is the output of SHA256?
+> 256/8 = 32 bytes
 
-  What’s needed to calculate the cryptographic hash of the text “hash me”?
+What’s needed to calculate the cryptographic hash of the text “hash me”?
+> A cryptographic hash function such as *addition modulo 256* that wraps around to 0 when the sum of two numbers reaches 256.
 
-  What are the decimal and the binary representations of the hexadecimal data 061a?
+What are the decimal and the binary representations of the hexadecimal data 061a?
 
-  Can you, in practice, modify the text “cat” so the modified text gets the same cryptographic hash as “cat”?
+Can you, in practice, modify the text “cat” so the modified text gets the same cryptographic hash as “cat”?
 
 ### Dig in
 
-  The simplistic hash function from Section 2.2.2, repeated for you as follows, isn’t a cryptographic hash function. Which two of the four properties of a cryptographic hash function is it lacking?
+The simplistic hash function from Section 2.2.2, repeated for you as follows, isn’t a cryptographic hash function. Which two of the four properties of a cryptographic hash function is it lacking?
 
 u02 09
+
 The four properties are also repeated as follows:
 
-The same input will always produce the same hash.
+* The same input will always produce the same hash.
 
-Slightly different inputs will produce very different hashes.
+* Slightly different inputs will produce very different hashes.
 
-The hash is always of the same fixed size. For SHA256, it’s 256 bits.
+* The hash is always of the same fixed size. For SHA256, it’s 256 bits.
 
-Brute-force trial and error is the only known way to find an input that gives a certain hash.
+* Brute-force trial and error is the only known way to find an input that gives a certain hash.
 
 Let’s go back to the example where you had a cat picture on your hard drive and wrote down the cryptographic hash of the picture on a piece of paper. Suppose someone wanted to change the cat picture on your hard drive without you noticing. What variant of the fourth property is important for stopping the attacker from succeeding?
 
