@@ -49,4 +49,4 @@ The four properties are also repeated as follows:
 
 Let’s go back to the example where you had a cat picture on your hard drive and wrote down the cryptographic hash of the picture on a piece of paper. Suppose someone wanted to change the cat picture on your hard drive without you noticing. What variant of the fourth property is important for stopping the attacker from succeeding?
 
-u02 10
+![ch2 fig26](https://github.com/thechipexpert/bitcoin/blob/main/ch02-fig26.svg)
