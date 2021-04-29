@@ -22,8 +22,14 @@ What’s needed to calculate the cryptographic hash of the text “hash me”?
 > A cryptographic hash function such as *addition modulo 256* that wraps around to 0 when the sum of two numbers reaches 256.
 
 What are the decimal and the binary representations of the hexadecimal data 061a?
+> a x 1 = 10\
+> 1 x 16 = 16\
+> 6 x 16 x 16 = 1,536\
+> 0 x 16 x 16 x 16 = 0\
+> **1,562**
 
 Can you, in practice, modify the text “cat” so the modified text gets the same cryptographic hash as “cat”?
+> No, slightly different inputs will produce very different hashes (digests).
 
 ### Dig in
 
