@@ -1,6 +1,6 @@
 Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/grokking-bitcoin.html#ch02)
 
-<h1>Chapter 2. Cryptographic hash functions and digital signatures
+<h1>Chapter 2. Cryptographic hash functions and digital signatures<h1>
 
 This chapter covers:
   * Creating a simple money system: cookie tokens
@@ -8,9 +8,9 @@ This chapter covers:
   * Authenticating payments using digital signatures
   * Keeping your secrets secret
 
-<h2>2.2.7. Exercises
+<h2>2.2.7. Exercises<h2>
 
-<h3>Warm up
+<h3>Warm up<h3>
 
   How many bits is the output of SHA256?
 
@@ -22,7 +22,7 @@ This chapter covers:
 
   Can you, in practice, modify the text “cat” so the modified text gets the same cryptographic hash as “cat”?
 
-<h3>Dig in
+<h3>Dig in<h3>
 
   The simplistic hash function from Section 2.2.2, repeated for you as follows, isn’t a cryptographic hash function. Which two of the four properties of a cryptographic hash function is it lacking?
 
