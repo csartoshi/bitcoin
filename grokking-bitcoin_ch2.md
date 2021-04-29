@@ -35,7 +35,7 @@ Can you, in practice, modify the text “cat” so the modified text gets the sa
 
 The simplistic hash function from Section 2.2.2, repeated for you as follows, isn’t a cryptographic hash function. Which two of the four properties of a cryptographic hash function is it lacking?
 
-![ch2 fig24](https://thechipexpert.github.com/bitcoin/ch2_fig24.svg)
+![ch2 fig24](https://github.com/thechipexpert/bitcoin/blob/main/ch02-fig24.svg)
 
 The four properties are also repeated as follows:
 
