@@ -1,5 +1,7 @@
 Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/grokking-bitcoin.html#ch02)
 
+[681,000 BH](https://blockstream.info/block/00000000000000000001b9e7f67b9cd2572d6f01d189bcef4c93cb4570bf1ee7)
+
 # Chapter 2. Cryptographic hash functions and digital signatures
 
 This chapter covers:
@@ -54,3 +56,5 @@ Let’s go back to the example where you had a cat picture on your hard drive an
 ![ch2 fig26](https://github.com/thechipexpert/bitcoin/blob/main/ch02-fig26.svg)
 
 > Second pre-image resistance: I only have the cryptographic hash (digest) of the pre-image written down on a piece of paper.  It is really hard to find a second pre-image that matches my hash.
+
+[681,000 BH](https://blockstream.info/block/00000000000000000001b9e7f67b9cd2572d6f01d189bcef4c93cb4570bf1ee7)
