@@ -26,3 +26,6 @@ After over 5 years of study I've come to realize that bitcoin is one of the most
 
 ### Podcasts
 * What is Money? Saylor Series with Robert Breedlove and Michael Saylor
+
+### Newsletters
+* 
