@@ -5,7 +5,7 @@
 
 The faster I run toward the finish line, the further it moves away from me. While some people in this space are more confident than others about its future direction, the truth is that we’re blazing new trails and learning as we move forward.  
 
-You don’t understand bitcoin, and that’s OK – _neither does anyone else._" -[Jameson Lopp](https://www.coindesk.com/nobody-understands-bitcoin-thats-ok)
+You don’t understand bitcoin, and that’s OK – _neither does anyone else._" -[Jameson Lopp](https://www.coindesk.com/nobody-understands-bitcoin-thats-ok); [456,776 BH](https://blockstream.info/block/0000000000000000016827e9a4c094eb3f2d85ac18a85e05506e257b2daf8e1f)
 
 ***
 
