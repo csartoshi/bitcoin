@@ -10,7 +10,7 @@ This chapter covers:
   * Authenticating payments using digital signatures
   * Keeping your secrets secret
 
-## 2.2.7. Exercises
+## 2.2.7 Exercises
 
 ### Warm up
 
@@ -57,4 +57,43 @@ Let’s go back to the example where you had a cat picture on your hard drive an
 
 > Second pre-image resistance: I only have the cryptographic hash (digest) of the pre-image written down on a piece of paper.  It is really hard to find a second pre-image that matches my hash.
 
-[681,000 BH](https://blockstream.info/block/00000000000000000001b9e7f67b9cd2572d6f01d189bcef4c93cb4570bf1ee7)
+[681,896 BH](https://blockstream.info/block/00000000000000000003828302c6ca30275f680e9b3c4faf34d9dfa1e132c0aa)
+
+## 2.5 Exercises
+
+### 2.5.1 Warm Up
+
+Lisa is currently rewarded 7,200 CT per day for her work. Why won’t the supply increase infinitely over time? Why don’t we have 7,200 × 10,000 = 72 million CT after 10,000 days?
+> The CT supply is programmatically restricted to reduce by half at a predetermined interval.
+
+How can coworkers detect if Lisa rewards herself too much or too often?
+> The ledger is public for all to see.
+
+How is the private key of a key pair created?
+> The private key is generated from an extremely large random number.
+
+What key is used to digitally sign a message?
+> The private key is used to encrypt a message.
+
+The signing process hashes the message to sign. Why?
+> The signing process hashes the message to create a fixed length string that saves space in the blockchain.
+
+What would Mallory need to steal cookie tokens from John?
+> Mallory needs to steal John's private key to be able to digitally sign his messages and steal his CT.
+
+### 2.5.2 Dig In
+
+Suppose you have a private key and you’ve given your public key to a friend, Fred. Suggest how Fred can send you a secret message that only you can understand.
+> Fred could write a message and encrypt it using my public key.  Then I would use my private key to decrypt and read the message.
+
+Suppose you (let’s pretend your name is Laura) and Fred still have the keys from the previous exercise. Now you want to send a message in a bottle to Fred saying,
+
+> Hi Fred! Can we meet at Tiffany’s at sunset tomorrow? /Laura
+
+Explain how you would sign the message so Fred can be sure the message is actually from you. Explain what steps you and Fred take in the process.
+
+> 1. Laura generates a private key and public key pair.
+> 2. Write the message and digitally sign it with the private key.  This includes encrypting the message.
+> 3. Use a cryptographic hash function to hash the message to a fixed length.
+> 4. Send to Fred.
+> 5. Fred decrypts and reads the message.
