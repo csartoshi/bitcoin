@@ -17,4 +17,4 @@ When is base58check decoding used, and by whom?
 
 Base58 encode the two hex bytes 0047. Use the following diagram. You may skip this exercise if you didn’t read the section on base58 encoding.
 
-![image](https://user-images.githubusercontent.com/6215591/117035935-8504fd00-acca-11eb-8558-5b972abd8291.png)
+![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/ch03-fig51.svg)
