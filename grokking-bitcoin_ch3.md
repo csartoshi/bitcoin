@@ -5,7 +5,7 @@ Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/gr
 
 # Chapter 3. Addresses
 
-![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap1.svg)
+![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap2.svg)
 
 ## 3.7. Exercises
 
@@ -48,6 +48,7 @@ Is it possible to deduce what public keys were involved in a certain payment by 
 Suppose everybody always used unique addresses for each payment. What information from the spreadsheet could Acme use to roughly identify the cafe’s addresses?
 
 Suppose there was a serious flaw in the public key derivation function, so anyone could calculate the private key from a public key. What prevents a bad guy from stealing your money in this scenario?
+
 ![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap4.svg)
 
 Suppose there was a serious flaw in RIPEMD160, so anyone could easily figure out a 256-bit pre-image of the PKH. This would mean it wasn’t pre-image resistant. What prevents a bad guy from stealing your money in this scenario?
