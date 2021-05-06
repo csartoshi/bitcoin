@@ -38,17 +38,22 @@ What in an address makes it mostly safe from typing errors?
 ### 3.7.2. Dig in
 
 Imagine that John wants a cookie from the cafe. He has two addresses: @1 with a balance of 5 CT, and @2 with 8 CT. His total balance is 13 CT, so he should be able to afford 10 CT for a cookie. Give an example of how he could pay 10 CT to the cafe.
+> John would need to send a payment to the cafe with two inputs, one from each address.  He could send 5CT from @1 and 5 CT from @2 with 3 CT change returning to him.
 
 Is it possible to deduce what cookie token addresses were involved in a certain payment by looking at the following spreadsheet?
-
+![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap1.svg)
+> Yes, because you can Base58 encode each PKH above to see which CT addresses were involved.
 
 Is it possible to deduce what public keys were involved in a certain payment by looking at just the spreadsheet?
-![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap1.svg)
+> No, because the spreadsheet is recording only the public key hashes (PKH) of each user.  
 
 Suppose everybody always used unique addresses for each payment. What information from the spreadsheet could Acme use to roughly identify the cafe’s addresses?
+> Acme could identify the PKH with the most frequent payments sent to it to infer which PKH belongs to the cafe.
 
 Suppose there was a serious flaw in the public key derivation function, so anyone could calculate the private key from a public key. What prevents a bad guy from stealing your money in this scenario?
 
 ![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap4.svg)
+> The PKH is a double-hash (SHA256 & RIPEMD160) of the public key.  So the attacker would not be able to derive the public key from the PKH in order to steal funds.
 
 Suppose there was a serious flaw in RIPEMD160, so anyone could easily figure out a 256-bit pre-image of the PKH. This would mean it wasn’t pre-image resistant. What prevents a bad guy from stealing your money in this scenario?
+> The pre-image resistance of SHA256 would still prevent the attacker from determining the 256-bit pre-image of the RIPEMD160(PKH).  The public key derivation function (ECDSA) also prevents the attacker from determining the private key from the public key.
