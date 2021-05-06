@@ -33,3 +33,19 @@ Base58 encode the two hex bytes 0047. Use the following diagram. You may skip th
 What in an address makes it mostly safe from typing errors?
 > Checksum (last 4 bytes) 
 
+### 3.7.2. Dig in
+
+Imagine that John wants a cookie from the cafe. He has two addresses: @1 with a balance of 5 CT, and @2 with 8 CT. His total balance is 13 CT, so he should be able to afford 10 CT for a cookie. Give an example of how he could pay 10 CT to the cafe.
+
+Is it possible to deduce what cookie token addresses were involved in a certain payment by looking at the following spreadsheet?
+
+
+Is it possible to deduce what public keys were involved in a certain payment by looking at just the spreadsheet?
+![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap1.svg)
+
+Suppose everybody always used unique addresses for each payment. What information from the spreadsheet could Acme use to roughly identify the cafe’s addresses?
+
+Suppose there was a serious flaw in the public key derivation function, so anyone could calculate the private key from a public key. What prevents a bad guy from stealing your money in this scenario?
+![ch3 fig51](https://github.com/thechipexpert/bitcoin/blob/main/images/ch03-recap2.svg)
+
+Suppose there was a serious flaw in RIPEMD160, so anyone could easily figure out a 256-bit pre-image of the PKH. This would mean it wasn’t pre-image resistant. What prevents a bad guy from stealing your money in this scenario?
