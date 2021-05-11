@@ -17,7 +17,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 
 ## What I've Read
 
-### :books: Books
+### 📚 Books
 * The Blocksize War - by Jonathan Bier
 * The Bitcoin Standard - by Saifedean Ammous
 * The Book of Satoshi - by Phil Champagne
