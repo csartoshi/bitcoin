@@ -13,7 +13,7 @@ You don’t understand bitcoin, and that’s OK – _neither does anyone else._"
 
 When I first started my journey down the bitcoin rabbit hole in 2015, I felt the same way as many others in their first brush with bitcoin: *_there's absolutely no way this will work_*.  I began reading everything I could find, which was very little at the time, to try to understand this novel concept.  After 6 months of this, I bought my first $5 worth of bitcoin just to play around with.  Little did I know then that the "splinter in my mind" had been implanted, and I have been expecting to wake up ever since.
 
-Like many others, after over 5 years of falling down the bitcoin rabbit hole I've come to realize that bitcoin is one of the most important advancements in human civilization.  It is a paradigm-shifting invention (or disovery, as some have argued) that will re-shape humanity for centuries to come - on par with fire, electricity, and the printing press.  Because of this, I've recently exited the corporate world and reoriented my entire life around working on bitcoin.  I've resonated with Jameson Lopp's above piece as I think about the best way to share my bitcoin knowledge to prospective partners, investors and employers.  I'm convinced that nobody fully understands bitcoin, we can only reach deeper levels of understanding and iterate on the perspectives that we previously had, but most have not put in the work to try.  My goal here is to catalog my own adventures down the bottomless bitcoin rabbit hole - serving as my own "proof-of-work".  Like the protocol itself, my bitcoin journey never ends, it only grows and evolves block by block.
+Like many others, after over 5 years of falling down the bitcoin rabbit hole I've come to realize that bitcoin is one of the most important advancements in human civilization.  It is a paradigm-shifting invention (or disovery, as some have argued) that will re-shape humanity for centuries to come - on par with fire, electricity, and the printing press.  Because of this, I've recently exited the corporate world and reoriented my entire life around working on bitcoin.  I've resonated with Jameson Lopp's above piece as I think about the best way to share my bitcoin knowledge to prospective partners, investors and employers.  I'm convinced that nobody fully understands bitcoin, we can only reach deeper levels of understanding and iterate on the perspectives that we previously had, but most have not put in the work to try.  My goal here is to catalog my own adventures down the bottomless bitcoin rabbit hole - serving as my own "proof-of-work".  Like the protocol itself, my bitcoin journey never ends, it only grows and evolves block by block
 
 ## What I've Read
 
@@ -28,14 +28,14 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Hard Money You Can't Fuck With - by Jason Williams
 * The Little Bitcoin Book - by Bitcoin Collective
 * Inventing Bitcoin - by Yan Pritzker
-* Bitoin: Sovereignty through mathematics - by Knut Svanholm
+* Bitcoin: Sovereignty through mathematics - by Knut Svanholm
 * Economics in One Lesson - by Henry Hazlitt
 * Incerto Series - by Nassim Taleb
 * Bitcoin Billionaires - by Ben Mezrich
 * The Dao of Capital: Austrian Investing in a Distorted World - by Mark Spitznagel
 
 ### 📃 Articles & Essays
-* Robert Breedlove
+* Robert Breedlove 
   * Bitcoin and the Number Zero
   * Masters of Slaves and Money
   * Our Most Brilliant Idea
@@ -43,12 +43,20 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Sovereignism - Parts 1 to 3
 * Gradually, Then Suddenly Series - by Parker Lewis (all)
 * The Greatest Game - by Jeff Booth
-* Nic Carter
+* Nic Carter (selective works)
   * It's the Settlement Assurances, Stupid
+  * Don't Fear the Reaper
+  * Lessons from the uneven distribution of capital
+  * A Most Peaceful Revolution
+  * Transaction count is an inferior measure
+  * Bitcoin at 12
+  * Bitcoin as a productive asset
   * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
   * What will it take for institutional investors to enter the cryptoasset market?
+* Bitcoin is Venice - by Allen Farrington
 * The Use of Knowledge in Society - by F. Hayek
-* Shelling out - by Nick Szabo
+* Shelling Out: The Origins of Money - by Nick Szabo
+* Bit Gold - by Nick Szabo
 
 ### 🎥 Videos
 * [Michael Saylor & Ross Stevens - Bitcoin Macro Strategy](https://youtu.be/NoobUKNttmw)
@@ -71,3 +79,10 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * NYDIG Research
 
 ## 📝 Reading List
+* Why Buy Bitcoin? - by Andy Edstrom
+* When Money Dies - by Adam Fergusson
+* The Ascent of Money - by Niall Ferguson
+* Programming Bitcoin - by Jimmy Song
+* Mastering Bitcoin - by Andreas Antonopoulos 
+
+### Currently reading Grokking Bitcoin by Kalle Rosenbaum
