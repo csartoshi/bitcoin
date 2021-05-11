@@ -62,7 +62,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 
 ### 🎥 Videos
 * [Michael Saylor & Ross Stevens - Bitcoin Macro Strategy](https://youtu.be/NoobUKNttmw)
-* asdf
+* [Bitcoin - Digital Signatures by Khan Academy](https://www.youtube.com/watch?v=Aq3a-_O2NcI)
 
 ### 🔊 Podcasts
 * Tales from the Crypt - with Marty Bent & Matt Odell
