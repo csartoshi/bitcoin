@@ -33,7 +33,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin Billionaires - by Ben Mezrich
 * The Dao of Capital: Austrian Investing in a Distorted World - by Mark Spitznagel
 
-### :paper_with_curl: Articles & Essays
+### 📃 Articles & Essays
 * Robert Breedlove
   * Bitcoin and the Number Zero
   * Masters of Slaves and Money
@@ -60,11 +60,11 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin Rapidfire - with John Vallis
 * Bitcoin Audible - with Guy Swann
 
-### 📰: Newsletters
+### 📧 Newsletters
 * The Bent - with Marty Bent
 * Bitcoin Tech Talk - with Jimmy Song
 * State of the Network - by CoinMetrics
 * The Week On-chain - by GlassNode
 * NYDIG Research
 
-## Reading List
+## 📝 Reading List
