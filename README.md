@@ -1,5 +1,4 @@
-# My Proof-of-Work
-## Perpetually Falling Down the Bitcoin Rabbit Hole 🕳️🐇
+# My Proof-of-Work: Perpetually Falling Down the Bitcoin Rabbit Hole 🕳️🐇
 ***
 
 "I will continue my quest to consume as much information as possible about this new ecosystem, but have long since given up the goal of understanding bitcoin.
