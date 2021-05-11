@@ -35,14 +35,16 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * The Dao of Capital: Austrian Investing in a Distorted World - by Mark Spitznagel
 
 ### 📃 Articles & Essays
+* Unchained Capital
+  * Gradually, Then Suddenly Series - by Parker Lewis (all)
+  * Bitcoin Astronomy Parts 1 to 3 - by Dhruv Bansal
+  * Bitcoin Data Science Series Parts 1 to 3 - by Dhruv Bansal
 * Robert Breedlove 
   * Bitcoin and the Number Zero
   * Masters of Slaves and Money
   * Our Most Brilliant Idea
   * Bitcoin is Hope
   * Sovereignism - Parts 1 to 3
-* Gradually, Then Suddenly Series - by Parker Lewis (all)
-* The Greatest Game - by Jeff Booth
 * Nic Carter (selective works)
   * It's the Settlement Assurances, Stupid
   * Don't Fear the Reaper
@@ -53,6 +55,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Bitcoin as a productive asset
   * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
   * What will it take for institutional investors to enter the cryptoasset market?
+* The Greatest Game - by Jeff Booth
 * Bitcoin is Venice - by Allen Farrington
 * Bitcoin is Time - by DerGigi
 * Bitcoin is The Mycelium of Money - by Brandom Quittem
