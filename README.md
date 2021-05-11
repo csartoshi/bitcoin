@@ -54,6 +54,8 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
   * What will it take for institutional investors to enter the cryptoasset market?
 * Bitcoin is Venice - by Allen Farrington
+* Bitcoin is Time - by DerGigi
+* Bitcoin is The Mycelium of Money - by Brandom Quittem
 * The Use of Knowledge in Society - by F. Hayek
 * Shelling Out: The Origins of Money - by Nick Szabo
 * Bit Gold - by Nick Szabo
