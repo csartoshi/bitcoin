@@ -1,4 +1,4 @@
-# My Proof-of-Work - Falling Down the Bitcoin Rabbit Hole
+# My Proof-of-Work - Perpetually Falling Down the Bitcoin Rabbit Hole
 ***
 
 "I will continue my quest to consume as much information as possible about this new ecosystem, but have long since given up the goal of understanding bitcoin.
@@ -30,6 +30,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Inventing Bitcoin - by Yan Pritzker
 * Bitoin: Sovereignty through mathematics - by Knut Svanholm
 * Economics in One Lesson - by Henry Hazlitt
+* Incerto Series - by Nassim Taleb
 * Bitcoin Billionaires - by Ben Mezrich
 * The Dao of Capital: Austrian Investing in a Distorted World - by Mark Spitznagel
 
@@ -44,7 +45,8 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * The Greatest Game - by Jeff Booth
 * Nic Carter
   * It's the Settlement Assurances, Stupid
-  * What Will 
+  * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
+  * What will it take for institutional investors to enter the cryptoasset market?
 * The Use of Knowledge in Society - by F. Hayek
 * Shelling out - by Nick Szabo
 
@@ -65,6 +67,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin Tech Talk - with Jimmy Song
 * State of the Network - by CoinMetrics
 * The Week On-chain - by GlassNode
+* Bitcoin Economic Calendar by Ledn
 * NYDIG Research
 
 ## 📝 Reading List
