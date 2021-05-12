@@ -29,7 +29,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * The Little Bitcoin Book - by Bitcoin Collective
 * Inventing Bitcoin - by Yan Pritzker
 * Bitcoin: Sovereignty through mathematics - by Knut Svanholm
-* The Soevereign Individual - by Davidson and Rees-Mogg
+* The Sovereign Individual - by Davidson and Rees-Mogg
 * Economics in One Lesson - by Henry Hazlitt
 * Incerto Series - by Nassim Taleb
 * Bitcoin Billionaires - by Ben Mezrich
