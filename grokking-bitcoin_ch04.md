@@ -1,5 +1,5 @@
 
-Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/grokking-bitcoin.html#ch02)
+Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/grokking-bitcoin.html#ch04)
 
 [683,322 BH](https://blockstream.info/block/00000000000000000008fa97446a5c97f916f31f2102a6ff8b8f7a5133390491)
 
