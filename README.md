@@ -81,7 +81,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Marty's Bent - by Marty Bent
 * Bitcoin Tech Talk - by Jimmy Song
 * State of the Network - by CoinMetrics
-* The Week On-chain - by GlassNode
+* The Week On-chain & Uncharted - by GlassNode
 * Bitcoin Economic Calendar - by Ledn
 * NYDIG Research
 
