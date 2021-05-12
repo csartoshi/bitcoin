@@ -41,15 +41,21 @@ Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/gr
 Use these hints:
 ![ch4 p4.9](https://github.com/thechipexpert/bitcoin/blob/main/images/ch04-p4.9.svg)
 
-4.10 Suppose instead that your clueless victim had 0 bitcoins on the private key m/4/1, but plenty of money on other addresses under the same xprv. Would you be able to steal any money?
+> 1. m/4/1 - "left half hash of index 1" = m/4
+> 2. Derive xpub M/4 and chain code from the master xpub
+> 3. Calculate the master xprv from m/4 - "left hash of index 4" = m
 
+4.10 Suppose instead that your clueless victim had 0 bitcoins on the private key m/4/1, but plenty of money on other addresses under the same xprv. Would you be able to steal any money?
+> Yes, because the xprv is not hardened it is possible to calculate the other addresses under the same xprv.
 
 4.11 Suggest a better approach your victim could have used to prevent you from stealing all the money.
-
+> Hardened child xprv derivation by hashing with the private key instead of the public key.
 
 4.12 Say the cafe owner wants employees to have access to the counter sales account because they must be able to create a new address for each sale. But they must not have access to the private keys because the owner doesn’t trust the employees to handle them securely. Suggest how to achieve this. Hint: a wallet can import an xpub.
-
+> Import a hardened xpub indexed at a certain value to your counter sales account wallet.  The counter sales account will be able to generate new addresses for each sale but will not have access to the master xpub or master xprv.
 
 4.13 Suppose you work at the cafe and have loaded an xpub into your wallet. Your colleague Anita has loaded the same xpub into her wallet. You can both request payments from customers that go into the same account. How would you notice when Anita has received money into a previously empty key? Hint: you can create keys ahead of time.
 
 ![ch4 p4.13](https://github.com/thechipexpert/bitcoin/blob/main/images/ch04-p4.13.svg)
+
+> You can generate addresses ahead of time and sync your wallets via the blockchain.  As Anita receives payments to the first address, your wallet will update and use the next address in the list.
