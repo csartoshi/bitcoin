@@ -46,7 +46,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Our Most Brilliant Idea
   * Bitcoin is Hope
   * Sovereignism - Parts 1 to 3
-* Nic Carter (selective works)
+* Nic Carter
   * It's the Settlement Assurances, Stupid
   * Don't Fear the Reaper
   * Lessons from the uneven distribution of capital
