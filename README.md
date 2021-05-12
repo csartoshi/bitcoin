@@ -34,7 +34,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin Billionaires - by Ben Mezrich
 * The Dao of Capital: Austrian Investing in a Distorted World - by Mark Spitznagel
 
-### 📃 Articles & Essays
+### 📃 Articles/Essays/Blogs
 * Unchained Capital
   * Gradually, Then Suddenly Series - by Parker Lewis (all)
   * Bitcoin Astronomy Parts 1 to 3 - by Dhruv Bansal
@@ -55,6 +55,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Bitcoin as a productive asset
   * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
   * What will it take for institutional investors to enter the cryptoasset market?
+* The Changing World Order - by Ray Dalio
 * The Greatest Game - by Jeff Booth
 * Bitcoin is Venice - by Allen Farrington
 * Bitcoin is Time - by DerGigi
