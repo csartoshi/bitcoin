@@ -78,7 +78,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin Fixes This - with Jimmy Song
 
 ### 📧 Newsletters
-* The Bent - by Marty Bent
+* Marty's Bent - by Marty Bent
 * Bitcoin Tech Talk - by Jimmy Song
 * State of the Network - by CoinMetrics
 * The Week On-chain - by GlassNode
