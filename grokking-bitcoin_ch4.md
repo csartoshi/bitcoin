@@ -37,7 +37,8 @@ Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/gr
 > No, you cannot derive a hardened child xpub from a parent xpub.  You must have the parent xprv at m/2/1 to generate a child xprv at m/2/1/7' using hardened xprv derivation and then calculate the xpub at M/2/1/7' from m/2/1/7'.
 
 ## 4.10.2. Dig in
-4.9 Suppose you’re a bad guy and have the master xpub of a clueless victim. You’ve also stolen the private key m/4/1 that contains 1 BTC. Assume you also know this private key has this specific path. Describe how you’d go about calculating the master xprv. Use these hints:
+4.9 Suppose you’re a bad guy and have the master xpub of a clueless victim. You’ve also stolen the private key m/4/1 that contains 1 BTC. Assume you also know this private key has this specific path. Describe how you’d go about calculating the master xprv. 
+Use these hints:
 ![ch4 p4.9](https://github.com/thechipexpert/bitcoin/blob/main/images/ch04-p4.9.svg)
 
 4.10 Suppose instead that your clueless victim had 0 bitcoins on the private key m/4/1, but plenty of money on other addresses under the same xprv. Would you be able to steal any money?
@@ -50,4 +51,5 @@ Self-study of [Grokking Bitcoin by Kalle Rosenbaum](https://rosenbaum.se/book/gr
 
 
 4.13 Suppose you work at the cafe and have loaded an xpub into your wallet. Your colleague Anita has loaded the same xpub into her wallet. You can both request payments from customers that go into the same account. How would you notice when Anita has received money into a previously empty key? Hint: you can create keys ahead of time.
+
 ![ch4 p4.13](https://github.com/thechipexpert/bitcoin/blob/main/images/ch04-p4.13.svg)
