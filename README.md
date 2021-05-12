@@ -66,6 +66,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 ### 🎥 Videos
 * [Michael Saylor & Ross Stevens - Bitcoin Macro Strategy](https://youtu.be/NoobUKNttmw)
 * [Bitcoin - Digital Signatures by Khan Academy](https://www.youtube.com/watch?v=Aq3a-_O2NcI)
+* [Elliptic Curve Cryptography Overview - by F5 DevCentral](https://www.youtube.com/watch?v=dCvB-mhkT0w)
 
 ### 🔊 Podcasts
 * Tales from the Crypt - with Marty Bent & Matt Odell
@@ -74,6 +75,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * What Bitcoin Did - with Peter McCormack
 * Bitcoin Rapidfire - with John Vallis
 * Bitcoin Audible - with Guy Swann
+* Bitcoin Fixes This - with Jimmy Song
 
 ### 📧 Newsletters
 * The Bent - by Marty Bent
