@@ -62,6 +62,9 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * Bitcoin is Venice - by Allen Farrington
 * Bitcoin is Time - by DerGigi
 * Bitcoin is The Mycelium of Money - by Brandom Quittem
+* Seetee Shareholder Letter
+* Something of Value Memo - by Howard Marks (Oaktree Capital)
+* Microstrategy and Bitcoin: The Mother of all Fat Tails? 4Q2020 - by Bill Miller
 * The Use of Knowledge in Society - by F. Hayek
 * Shelling Out: The Origins of Money - by Nick Szabo
 * Bit Gold - by Nick Szabo
