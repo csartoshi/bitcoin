@@ -14,7 +14,7 @@ When I first started my journey down the bitcoin rabbit hole in 2015, I felt the
 
 Like many others, after over 5 years of falling down the bitcoin rabbit hole I've come to realize that bitcoin is one of the most important advancements in human civilization.  It is a paradigm-shifting invention (or disovery, as some have argued) that will re-shape humanity for centuries to come - on par with fire, electricity, and the printing press.  Because of this, I've recently exited the corporate world and reoriented my entire life around working on bitcoin.  I've resonated with Jameson Lopp's above piece as I think about the best way to share my bitcoin knowledge to prospective partners, investors and employers.  I'm convinced that nobody fully understands bitcoin, we can only reach deeper levels of understanding and iterate on the perspectives that we previously had, but most have not put in the work to try.  My goal here is to catalog my own adventures down the bottomless bitcoin rabbit hole - serving as my own "proof-of-work".  Like the protocol itself, my bitcoin journey never ends, it only grows and evolves block by block.
 
-*Currently studying Grokking Bitcoin by Kalle Rosenbaum and documenting my [learning](https://github.com/thechipexpert/bitcoin/grokking%20bitcoin) chapter by chapter*
+*Currently studying Grokking Bitcoin by Kalle Rosenbaum and documenting my [learning](https://github.com/thechipexpert/bitcoin/tree/main/grokking%20bitcoin) chapter by chapter*
 ***
 ## What I've Read/Watched/Listened
 
