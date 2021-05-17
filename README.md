@@ -57,6 +57,15 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Bitcoin as a productive asset
   * Power Laws and Network Effects: Why BitcoinCash is not a free lunch
   * What will it take for institutional investors to enter the cryptoasset market?
+* Alex Gladstein
+  * Check Your Financial Privilege
+  * Uncovering the Hidden Costs of the Petrodollar
+  * Bitcoin is a Trojan Horse for Freedom
+* Lyn Alden
+  * The Ultimate Guide to Inflation
+  * Economic Japanification: Not What You Think
+  * The Fraying of the US Global Curency Reserve System
+  * Banks, QE, and Money-Printing
 * The Changing World Order - by Ray Dalio
 * The Greatest Game - by Jeff Booth
 * Bitcoin is Venice - by Allen Farrington
