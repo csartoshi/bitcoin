@@ -69,7 +69,11 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * The Changing World Order - by Ray Dalio
 * The Greatest Game - by Jeff Booth
 * Bitcoin is Venice - by Allen Farrington
-* Bitcoin is Time - by DerGigi
+* DerGigi
+  * Bitcoin Is Time
+  * True Names Not Required
+  * Dear Bitcoiners - An optimistic letter to friends and foes around the globe
+  * Proof of Life: Why Bitcoin is a Living Organism
 * Bitcoin is The Mycelium of Money - by Brandom Quittem
 * Seetee Shareholder Letter
 * Something of Value Memo - by Howard Marks (Oaktree Capital)
