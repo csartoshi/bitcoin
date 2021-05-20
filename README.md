@@ -110,3 +110,6 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
 * The Ascent of Money - by Niall Ferguson
 * Programming Bitcoin - by Jimmy Song
 * Mastering Bitcoin - by Andreas Antonopoulos 
+* Bitcoin Clarity - by Kiara Bickers
+* Bitcoin: Independence Reimagined - by Knut Svanholm
+* Magic Internet Money - by Jesse Berger
