@@ -66,6 +66,7 @@ Like many others, after over 5 years of falling down the bitcoin rabbit hole I'v
   * Economic Japanification: Not What You Think
   * The Fraying of the US Global Curency Reserve System
   * Banks, QE, and Money-Printing
+* Stone Ridge 2020 Shareholder Letter - by Ross Stevens
 * The Changing World Order - by Ray Dalio
 * The Greatest Game - by Jeff Booth
 * Bitcoin is Venice - by Allen Farrington
